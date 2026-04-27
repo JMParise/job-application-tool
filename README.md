@@ -2,6 +2,12 @@
 
 A Python-based job search assistant that aggregates jobs from multiple sources, scores them based on relevance, and matches them against your resume.
 
+## Why I Built This
+
+Applying to jobs is time-consuming and repetitive. I built this tool to automate job discovery, rank opportunities based on relevance, and identify gaps between job requirements and my resume.
+
+The goal is to focus on the highest-impact applications instead of manually searching through hundreds of listings.
+
 ## Features
 
 - Multi-source job aggregation (Remotive + Adzuna)
