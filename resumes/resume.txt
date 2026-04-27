@@ -1,0 +1,40 @@
+Joseph M. Parise
+joseph.parise@student.fairfield.edu ⬪ 551-226-1563
+
+EDUCATION
+Fairfield University	                                                                              			    Fairfield, CT
+Bachelor of Science: Computer Science                                                                                    May 2026
+Minor: Mathematics
+GPA: 3.57	
+Honors: Dean’s List Spring 2023, Spring 2024, Fall 2024, Fall 2025
+Course Highlights: Web Development, Data Structures, and Artificial Intelligence
+  
+COMPUTER SKILLS
+Languages: Java, Python, C#, JavaScript, SQL, HTML
+Technologies: ASP.NET, Docker, Git, CI/CD Pipelines
+Systems: Windows, Linux
+Concepts: Object-Oriented Programming, REST APIs, Hardware Integration
+
+RELATED EXPERIENCE
+Inofast Manufacturing								    Hatfield, PA
+Software Development Intern						   Summer 2025- Winter 2025
+●  Developed and modernized features in a large-scale ASP.NET (C#) manufacturing ERP
+●  Implemented dynamic, data-driven UI components backed by SQL server stored procedures
+●  Gained hands-on experience debugging within a production enterprise codebase
+
+Micro-Orifice Tuner System Migration & Control Platform				    Fairfield, CT
+Fairfield University - O’Keefe Controls Co       	          			             Fall 2025- Spring 2026
+●  Migrated an industrial micro-orifice tuning and auto-calibration system from Raspberry Pi to a Windows 11 platform, improving system stability, security, and IT compatibility
+●  Developed and debugged USB serial communication (COM ports) between a Windows PC and Arduino-based controller, ensuring reliable integration of sensors, motor control, and real-time feedback
+●  Validated the system through bench and on-site testing with O’Keefe Controls equipment, resolving platform and communication issues to achieve successful real-world operation
+
+Literacy Volunteers Website Development						    Fairfield, CT
+Fairfield University – Sophomore Clinic Project       	                                                               Fall 2023
+●  Worked on a semester long project to develop a website that was easy to navigate 
+●  Met with stakeholders to provide updates and ensure project specifications were on target
+●  Tested and validated site functionality to ensure usability and reliability
+
+ADDITIONAL INFORMATION
+Computer Science Society (CSS)
+Fairfield University Build-A-House, Volunteer
+
