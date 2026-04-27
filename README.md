@@ -58,3 +58,6 @@ ADZUNA_COUNTRY=us
 python -m backend.main
 streamlit run frontend/app.py
 ```
+
+## Demo
+<img width="1280" height="668" alt="image" src="https://github.com/user-attachments/assets/e8f3676c-2e6c-4771-a764-3893df78c00d" />
